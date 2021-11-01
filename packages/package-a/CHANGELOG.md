@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.3](https://github.com/yosoft/lerna-release-workflow/compare/@yosoft/package-a@0.1.2...@yosoft/package-a@0.1.3) (2021-11-01)
+
+**Note:** Version bump only for package @yosoft/package-a
+
+
+
+
+
 ## [0.1.2](https://github.com/yosoft/lerna-release-workflow/compare/@yosoft/package-a@0.1.1...@yosoft/package-a@0.1.2) (2021-11-01)
 
 **Note:** Version bump only for package @yosoft/package-a
